@@ -1,4 +1,0 @@
-#Thu Jan 20 15:55:05 ICT 2022
-base.0=/home/caodev/StudioProjects/tai_xiu/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
